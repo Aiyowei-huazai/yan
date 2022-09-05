@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(693,5): error MSB6006: “CL.exe”已退出，代码为 2。
+F:\c代码\Project2022-9-5\Project2022-9-5\test.c(28,30): error C2078: 初始值设定项太多
+F:\c代码\Project2022-9-5\Project2022-9-5\test.c(28,6): error C2078: 初始值设定项太多
