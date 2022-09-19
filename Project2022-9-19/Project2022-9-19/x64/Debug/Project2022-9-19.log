@@ -1,0 +1,4 @@
+﻿  test.c
+F:\c代码\Project2022-9-19\Project2022-9-19\test.c(61,6): warning C4013: “gets”未定义；假设外部返回 int
+F:\c代码\Project2022-9-19\Project2022-9-19\test.c(63,17): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  Project2022-9-19.vcxproj -> F:\c代码\Project2022-9-19\x64\Debug\Project2022-9-19.exe
