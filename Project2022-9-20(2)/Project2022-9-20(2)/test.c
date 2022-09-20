@@ -4,9 +4,10 @@
 
 int main()
 {
-	int n;
-	n = (4 > 4 - !2) && (2 > 1) || (2 && 6);
-	printf("%d", n);
+	int n,t=0;
+	n = (4 > 4 - !2) && (t=1) || (2 && 6);
+	printf("%d\n", n);
+	printf("%d\n", t);
 
 
 
