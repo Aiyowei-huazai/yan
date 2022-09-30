@@ -1,0 +1,8 @@
+﻿  test.c
+D:\C代码\Project2022-9-30\Project2022-9-30\test.c(237,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+D:\C代码\Project2022-9-30\Project2022-9-30\test.c(237,9): message : 请考虑在格式字符串中使用“%hhd”
+D:\C代码\Project2022-9-30\Project2022-9-30\test.c(245,17): warning C4474: printf: 格式字符串中传递的参数太多
+D:\C代码\Project2022-9-30\Project2022-9-30\test.c(245,17): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\C代码\Project2022-9-30\Project2022-9-30\test.c(233,9): warning C4101: “j”: 未引用的局部变量
+D:\C代码\Project2022-9-30\Project2022-9-30\test.c(232,7): warning C4101: “t”: 未引用的局部变量
+  Project2022-9-30.vcxproj -> D:\C代码\Project2022-9-30\x64\Debug\Project2022-9-30.exe
