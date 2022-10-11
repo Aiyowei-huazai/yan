@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C代码\Project2022-10-11\Project2022-10-11\test.c(110): warning C4715: “fun”: 不是所有的控件路径都返回值
+  Project2022-10-11.vcxproj -> D:\C代码\Project2022-10-11\x64\Debug\Project2022-10-11.exe
