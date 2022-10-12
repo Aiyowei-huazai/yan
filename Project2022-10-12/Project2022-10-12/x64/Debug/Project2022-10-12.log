@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C代码\Project2022-10-12\Project2022-10-12\test.c(63,14): warning C4133: “函数”: 从“char [5]”到“int *”的类型不兼容
+D:\C代码\Project2022-10-12\Project2022-10-12\test.c(63,20): warning C4133: “函数”: 从“char [5]”到“int *”的类型不兼容
+  Project2022-10-12.vcxproj -> D:\C代码\Project2022-10-12\x64\Debug\Project2022-10-12.exe
