@@ -1,0 +1,6 @@
+﻿  test.c
+D:\C代码\Project2022-10-14\Project2022-10-14\test.c(90,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\C代码\Project2022-10-14\Project2022-10-14\test.c(92,18): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\C代码\Project2022-10-14\Project2022-10-14\test.c(97,41): warning C4305: “函数”: 从“double”到“float”截断
+D:\C代码\Project2022-10-14\Project2022-10-14\test.c(93): warning C4715: “fun”: 不是所有的控件路径都返回值
+  Project2022-10-14.vcxproj -> D:\C代码\Project2022-10-14\x64\Debug\Project2022-10-14.exe
