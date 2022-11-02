@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C代码\Project2022-11-2\Project2022-11-2\test.c(96,12): warning C4133: “函数”: 从“int [3][4]”到“float (*)[4]”的类型不兼容
+  Project2022-11-2.vcxproj -> D:\C代码\Project2022-11-2\x64\Debug\Project2022-11-2.exe
